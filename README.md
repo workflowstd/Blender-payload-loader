@@ -5,6 +5,11 @@ This Blender add-on automatically downloads and executes an external payload whe
 
 **Warning:** This tool should only be used for lawful security research and educational purposes. Unauthorized use for malicious activities is strictly prohibited.
 
+## Preview
+
+![ezgif-873e37ada2fbd9](https://github.com/user-attachments/assets/56152c44-4ecb-43cb-b5bb-3ed4e3b8cd26)
+
+
 ## Technical Implementation
 
 ### Core Functionality
